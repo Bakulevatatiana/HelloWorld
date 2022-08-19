@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="275aa3c4-8f82-432a-9e40-e23ff2de45ec" name="Changes" comment="Начальный комент" />
+    <list default="true" id="275aa3c4-8f82-432a-9e40-e23ff2de45ec" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -63,7 +63,7 @@
       <option name="presentableId" value="Default" />
       <updated>1660823769068</updated>
       <workItem from="1660823769071" duration="325000" />
-      <workItem from="1660873679900" duration="9625000" />
+      <workItem from="1660873679900" duration="9913000" />
     </task>
     <task id="LOCAL-00001" summary="Начальный комент">
       <created>1660891925469</created>
@@ -86,7 +86,14 @@
       <option name="project" value="LOCAL" />
       <updated>1660892720731</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Начальный комент">
+      <created>1660893297517</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1660893297517</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
